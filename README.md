@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/gdilansh-beep/Programming_ques/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/gdilansh-beep/Programming_ques/tree/master/0078-subsets) |
 | [0368-largest-divisible-subset](https://github.com/gdilansh-beep/Programming_ques/tree/master/0368-largest-divisible-subset) |
 ## Math
 |  |
@@ -24,4 +25,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/gdilansh-beep/Programming_ques/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/gdilansh-beep/Programming_ques/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/gdilansh-beep/Programming_ques/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

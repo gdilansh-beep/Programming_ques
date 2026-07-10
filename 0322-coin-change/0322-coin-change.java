@@ -8,7 +8,7 @@ class Solution {
             for (int j = 0; j < coins.length; j++) {
                 if (coins[j] <= i) {
                     if (dp[i - coins[j]] + 1 < dp[i]) {
-                        dp[i] = dp[i + coins[j]] + 1;
+                        dp[i] = dp[i - coins[j]] + 1;
                     }
                 }
             }

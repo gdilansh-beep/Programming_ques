@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/gdilansh-beep/Programming_ques/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/gdilansh-beep/Programming_ques/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/gdilansh-beep/Programming_ques/tree/master/0078-subsets) |
 | [0322-coin-change](https://github.com/gdilansh-beep/Programming_ques/tree/master/0322-coin-change) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/gdilansh-beep/Programming_ques/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/gdilansh-beep/Programming_ques/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/gdilansh-beep/Programming_ques/tree/master/0078-subsets) |
 ## Bit Manipulation

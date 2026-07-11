@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/gdilansh-beep/Programming_ques/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/gdilansh-beep/Programming_ques/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/gdilansh-beep/Programming_ques/tree/master/0162-find-peak-element) |
+| [0219-contains-duplicate-ii](https://github.com/gdilansh-beep/Programming_ques/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/gdilansh-beep/Programming_ques/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/gdilansh-beep/Programming_ques/tree/master/0368-largest-divisible-subset) |
 ## Math
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/gdilansh-beep/Programming_ques/tree/master/0162-find-peak-element) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/gdilansh-beep/Programming_ques/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/gdilansh-beep/Programming_ques/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

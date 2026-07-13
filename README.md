@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/gdilansh-beep/Programming_ques/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/gdilansh-beep/Programming_ques/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/gdilansh-beep/Programming_ques/tree/master/0322-coin-change) |
+| [0336-palindrome-pairs](https://github.com/gdilansh-beep/Programming_ques/tree/master/0336-palindrome-pairs) |
 | [0368-largest-divisible-subset](https://github.com/gdilansh-beep/Programming_ques/tree/master/0368-largest-divisible-subset) |
 | [0384-shuffle-an-array](https://github.com/gdilansh-beep/Programming_ques/tree/master/0384-shuffle-an-array) |
 ## Math
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/gdilansh-beep/Programming_ques/tree/master/0219-contains-duplicate-ii) |
+| [0336-palindrome-pairs](https://github.com/gdilansh-beep/Programming_ques/tree/master/0336-palindrome-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gdilansh-beep/Programming_ques/tree/master/0054-spiral-matrix) |
+## String
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/gdilansh-beep/Programming_ques/tree/master/0336-palindrome-pairs) |
+## Trie
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/gdilansh-beep/Programming_ques/tree/master/0336-palindrome-pairs) |
+## Hash Function
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/gdilansh-beep/Programming_ques/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->

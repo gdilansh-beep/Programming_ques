@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/gdilansh-beep/Programming_ques/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/gdilansh-beep/Programming_ques/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/gdilansh-beep/Programming_ques/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/gdilansh-beep/Programming_ques/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/gdilansh-beep/Programming_ques/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/gdilansh-beep/Programming_ques/tree/master/0219-contains-duplicate-ii) |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/gdilansh-beep/Programming_ques/tree/master/0384-shuffle-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/gdilansh-beep/Programming_ques/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/gdilansh-beep/Programming_ques/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

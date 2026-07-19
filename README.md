@@ -85,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/gdilansh-beep/Programming_ques/tree/master/0336-palindrome-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/gdilansh-beep/Programming_ques/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/gdilansh-beep/Programming_ques/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/gdilansh-beep/Programming_ques/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/gdilansh-beep/Programming_ques/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/gdilansh-beep/Programming_ques/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/gdilansh-beep/Programming_ques/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/gdilansh-beep/Programming_ques/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/gdilansh-beep/Programming_ques/tree/master/0336-palindrome-pairs) |
 | [0368-largest-divisible-subset](https://github.com/gdilansh-beep/Programming_ques/tree/master/0368-largest-divisible-subset) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gdilansh-beep/Programming_ques/tree/master/3499-maximize-active-section-with-trade-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/gdilansh-beep/Programming_ques/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

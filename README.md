@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/gdilansh-beep/Programming_ques/tree/master/0336-palindrome-pairs) |
 | [0368-largest-divisible-subset](https://github.com/gdilansh-beep/Programming_ques/tree/master/0368-largest-divisible-subset) |
 | [0384-shuffle-an-array](https://github.com/gdilansh-beep/Programming_ques/tree/master/0384-shuffle-an-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gdilansh-beep/Programming_ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/gdilansh-beep/Programming_ques/tree/master/0162-find-peak-element) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gdilansh-beep/Programming_ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gdilansh-beep/Programming_ques/tree/master/0054-spiral-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gdilansh-beep/Programming_ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |

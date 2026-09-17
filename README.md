@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gdilansh-beep/Programming_ques/tree/master/0020-valid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/gdilansh-beep/Programming_ques/tree/master/0336-palindrome-pairs) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gdilansh-beep/Programming_ques/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Trie
@@ -109,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/gdilansh-beep/Programming_ques/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gdilansh-beep/Programming_ques/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gdilansh-beep/Programming_ques/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/gdilansh-beep/Programming_ques/tree/master/0072-edit-distance) |
 | [0322-coin-change](https://github.com/gdilansh-beep/Programming_ques/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/gdilansh-beep/Programming_ques/tree/master/0368-largest-divisible-subset) |
 ## Sorting
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gdilansh-beep/Programming_ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/gdilansh-beep/Programming_ques/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/gdilansh-beep/Programming_ques/tree/master/0072-edit-distance) |
 | [0336-palindrome-pairs](https://github.com/gdilansh-beep/Programming_ques/tree/master/0336-palindrome-pairs) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gdilansh-beep/Programming_ques/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Trie

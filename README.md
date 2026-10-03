@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/gdilansh-beep/Programming_ques/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/gdilansh-beep/Programming_ques/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/gdilansh-beep/Programming_ques/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/gdilansh-beep/Programming_ques/tree/master/0079-word-search) |
 | [0162-find-peak-element](https://github.com/gdilansh-beep/Programming_ques/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/gdilansh-beep/Programming_ques/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/gdilansh-beep/Programming_ques/tree/master/0238-product-of-array-except-self) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/gdilansh-beep/Programming_ques/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/gdilansh-beep/Programming_ques/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/gdilansh-beep/Programming_ques/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/gdilansh-beep/Programming_ques/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gdilansh-beep/Programming_ques/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/gdilansh-beep/Programming_ques/tree/master/0079-word-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gdilansh-beep/Programming_ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gdilansh-beep/Programming_ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/gdilansh-beep/Programming_ques/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/gdilansh-beep/Programming_ques/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/gdilansh-beep/Programming_ques/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/gdilansh-beep/Programming_ques/tree/master/0091-decode-ways) |
 | [0171-excel-sheet-column-number](https://github.com/gdilansh-beep/Programming_ques/tree/master/0171-excel-sheet-column-number) |
 | [0336-palindrome-pairs](https://github.com/gdilansh-beep/Programming_ques/tree/master/0336-palindrome-pairs) |
@@ -127,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gdilansh-beep/Programming_ques/tree/master/0020-valid-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/gdilansh-beep/Programming_ques/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

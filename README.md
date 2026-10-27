@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/gdilansh-beep/Programming_ques/tree/master/0368-largest-divisible-subset) |
 | [0384-shuffle-an-array](https://github.com/gdilansh-beep/Programming_ques/tree/master/0384-shuffle-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gdilansh-beep/Programming_ques/tree/master/0540-single-element-in-a-sorted-array) |
+| [0735-asteroid-collision](https://github.com/gdilansh-beep/Programming_ques/tree/master/0735-asteroid-collision) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gdilansh-beep/Programming_ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gdilansh-beep/Programming_ques/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/gdilansh-beep/Programming_ques/tree/master/0735-asteroid-collision) |
 ## String
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gdilansh-beep/Programming_ques/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/gdilansh-beep/Programming_ques/tree/master/0735-asteroid-collision) |
 ## Bracket Sequences
 |  |
 | ------- |

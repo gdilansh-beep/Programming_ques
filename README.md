@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/gdilansh-beep/Programming_ques/tree/master/0336-palindrome-pairs) |
 | [0368-largest-divisible-subset](https://github.com/gdilansh-beep/Programming_ques/tree/master/0368-largest-divisible-subset) |
 | [0384-shuffle-an-array](https://github.com/gdilansh-beep/Programming_ques/tree/master/0384-shuffle-an-array) |
+| [0496-next-greater-element-i](https://github.com/gdilansh-beep/Programming_ques/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gdilansh-beep/Programming_ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/gdilansh-beep/Programming_ques/tree/master/0735-asteroid-collision) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gdilansh-beep/Programming_ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gdilansh-beep/Programming_ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/gdilansh-beep/Programming_ques/tree/master/0219-contains-duplicate-ii) |
 | [0336-palindrome-pairs](https://github.com/gdilansh-beep/Programming_ques/tree/master/0336-palindrome-pairs) |
+| [0496-next-greater-element-i](https://github.com/gdilansh-beep/Programming_ques/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gdilansh-beep/Programming_ques/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/gdilansh-beep/Programming_ques/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/gdilansh-beep/Programming_ques/tree/master/0735-asteroid-collision) |
 ## Bracket Sequences
 |  |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/gdilansh-beep/Programming_ques/tree/master/0069-sqrtx) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/gdilansh-beep/Programming_ques/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

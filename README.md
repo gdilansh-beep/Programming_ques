@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/gdilansh-beep/Programming_ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/gdilansh-beep/Programming_ques/tree/master/0735-asteroid-collision) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gdilansh-beep/Programming_ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gdilansh-beep/Programming_ques/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gdilansh-beep/Programming_ques/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/gdilansh-beep/Programming_ques/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/gdilansh-beep/Programming_ques/tree/master/0735-asteroid-collision) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gdilansh-beep/Programming_ques/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -154,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gdilansh-beep/Programming_ques/tree/master/0496-next-greater-element-i) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gdilansh-beep/Programming_ques/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->

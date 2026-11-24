@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/gdilansh-beep/Programming_ques/tree/master/0384-shuffle-an-array) |
 | [0496-next-greater-element-i](https://github.com/gdilansh-beep/Programming_ques/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gdilansh-beep/Programming_ques/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/gdilansh-beep/Programming_ques/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/gdilansh-beep/Programming_ques/tree/master/0735-asteroid-collision) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gdilansh-beep/Programming_ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gdilansh-beep/Programming_ques/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gdilansh-beep/Programming_ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/gdilansh-beep/Programming_ques/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/gdilansh-beep/Programming_ques/tree/master/0643-maximum-average-subarray-i) |
 ## Design
 |  |
 | ------- |
